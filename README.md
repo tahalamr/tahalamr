@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Taha 👋
 
-<!--
-**tahalamr/tahalamr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Fintech student at **IE University** in Madrid, and Finance & Analytics graduate from the University of Bradford. I like turning data and code into useful things.
 
-Here are some ideas to get you started:
+### What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Learning Python, SQL and cloud computing (Azure) through my Master's
+
+• Side ventures in e-commerce and AI
+
+### Skills
+
+Python · SQL · Azure (VMs, networking, security basics) · Data analysis · Git
+
+### Projects
+
+• [calculator-project](https://github.com/tahalamr/calculator-project): a Python calculator with typed functions and tests, built with uv
+
+### About me
+
+Based in Madrid, Spain. Languages: English, French.
